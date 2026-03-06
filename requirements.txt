@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+twilio
+openai
+python-dotenv
+httpx
+Pillow
