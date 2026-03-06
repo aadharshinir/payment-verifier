@@ -1,0 +1,26 @@
+# Environment variables — API keys (NEVER upload these)
+.env
+.env.local
+.env.production
+
+# Virtual environment
+.venv
+venv
+env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
